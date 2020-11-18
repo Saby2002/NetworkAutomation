@@ -10,7 +10,7 @@ This project is
 ## Used Technologies 
 - CLI/NETCONF/RESTCONF/gRPC
 - XML/JSON/YAML/Protobuf
-
+- YANG
 
 
 ## Used Tools 
