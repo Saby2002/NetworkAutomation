@@ -5,12 +5,13 @@ This project is
 - Cisco IOS XRv
 - Arista EOS
 - Cumulus VX
+- Nokia SR
 
 ## Used Technologies 
 - CLI/NETCONF/RESTCONF/gRPC
 - XML/JSON/YAML/Protobuf
-- Cumulus VX
-- Nokia SR
+
+
 
 ## Used Tools 
 - Python/Ansible/Bash
